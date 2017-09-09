@@ -1,0 +1,44 @@
+a {
+	color: white;
+}
+
+
+
+a:hover{
+	font-weight: bold;
+	color: orange;
+
+}
+button {
+	background-color:#9966ff;
+	border: none;
+	padding: 10px 35px;
+	color:#ff0066;
+}
+
+li{ 
+display:inline-block;
+ padding: 0 10px;
+
+}
+nav {
+	text-align: center;
+	background-color: #666699;
+}
+
+
+div.buttons {
+
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+
+ 
+
+
+
+ 
